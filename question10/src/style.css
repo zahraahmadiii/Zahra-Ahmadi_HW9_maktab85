@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .w_912_main{
+    width: 912px;
+    display: flex;
+    flex-direction: column;
+} */
